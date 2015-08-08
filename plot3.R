@@ -1,7 +1,7 @@
 # COURSERA
 # EXPLORATORY DATA ANALYSIS PROJECT 1
 # 08.08.2015
-
+Sys.setlocale("LC_TIME", "English")
 # Sys.setenv(LANG = "en")
 
 # install.packages("chron")
